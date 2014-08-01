@@ -70,3 +70,21 @@
         </ul>
     </li>
 </ul>
+Sass Structure:
+sass/
+    modules/
+        partials/
+            _mixins.scss
+            _navbar.scss
+    _all.scss
+    _fonts.scss
+    _variables.scss
+  partials/
+    templates/
+        _about.scss
+        _contact.scss
+        _home.scss
+    _base.scss
+    _footer.scss
+    _header.scss
+  applications.scss
