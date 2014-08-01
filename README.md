@@ -25,13 +25,13 @@
 </ul>
 
 <h2>Installation:</h2>
-    <ul>
-        <li>Git clone or download repo</li>
-        <li>Change name of root folder</li>
-        <li>Change name of wp-content/themes/skeleton</li>
-        <li>Change database values in wp-config.php</li>
-        <li>nagivate to folder in browser and installation should begin</li>
-    </ul>
+<ul>
+    <li>Git clone or download repo</li>
+    <li>Change name of root folder</li>
+    <li>Change name of wp-content/themes/skeleton</li>
+    <li>Change database values in wp-config.php</li>
+    <li>nagivate to folder in browser and installation should begin</li>
+</ul>
 
 <h2>Stuff to Know:</h2>
 <ul>
